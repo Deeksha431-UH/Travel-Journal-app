@@ -1,6 +1,6 @@
-# 📌 MemoryMiles – Travel Story Sharing App
+# 📌 Travel Story Sharing App
 
-🚀 MemoryMiles is a full-stack web application where users can **create, manage, and explore travel stories** with images, locations, and dates. It helps users preserve their memories and share experiences in a clean, modern interface.
+🚀 Travel Story Sharing App is a full-stack web application where users can **create, manage, and explore travel stories** with images, locations, and dates. It helps users preserve their memories and share experiences in a clean, modern interface.
 
 ---
 
