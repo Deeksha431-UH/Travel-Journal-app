@@ -118,26 +118,3 @@ You can deploy using:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo  
-2. Create a new branch  
-3. Make changes  
-4. Submit a Pull Request  
-
-
-
----
-
-## 👨‍💻 Author
-
-**Aadil Tamboli**  
-GitHub: https://github.com/AadilTamboli01  
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, please ⭐ the repo!
